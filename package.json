@@ -73,7 +73,7 @@
   "license": "MIT",
   "devDependencies": {
     "@crazyfactory/tslint-rules": "^1.6.1",
-    "@types/enzyme": "^3.1.18",
+    "@types/enzyme": "^3.9.2",
     "@types/express": "^4.16.1",
     "@types/jest": "^24.0.6",
     "@types/node": "^11.9.4",
